@@ -1,1 +1,1 @@
-script that switches  the current  user  to  the  user  betty 
+scripts  that adds  execute  permissions  to  the  owner  of the file
