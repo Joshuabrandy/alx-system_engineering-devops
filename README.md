@@ -1,1 +1,1 @@
-tasko.0 my name is betty
+task.6-multiple_permissions 
